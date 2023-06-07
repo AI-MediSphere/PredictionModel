@@ -155,9 +155,9 @@ Our vision is to create a future where individuals have the knowledge and tools 
 
 We would love to hear from you! If you have any questions, feedback, or collaboration inquiries, please don't hesitate to reach out to us:
 
-Email: contact@cardiovita.com
-Website: www.cardiovita.com
-Twitter: @CardioVitaAI
-LinkedIn: CardioVita
+Email: contact@axcess.io
+Website: www.axcess.io
+Twitter: @axcess.io
+LinkedIn: Axcessio
 
 Thank you for your support, and let's revolutionize cardiovascular disease prediction together!
