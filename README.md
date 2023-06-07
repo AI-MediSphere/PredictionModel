@@ -9,7 +9,7 @@ Govind Kumar: Cloud Architect - [@elngovind](https://www.github.com/elngovind)
 
 Ermanno B.J. Attardo: ML Lead
 
-Ahmed Ali: Data Engineer - - [@ahmedmagdy31](https://github.com/Ahmedmagdy31)
+Ahmed Ali: Data Engineer - [@ahmedmagdy31](https://github.com/Ahmedmagdy31)
 
 Shraiya Sundriyal: Cloud Engineer - [@shraiya-dev](https://github.com/Shraiya-dev)
 
