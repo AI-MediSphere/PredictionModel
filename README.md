@@ -148,7 +148,7 @@ Join us on this exciting journey as we work towards a future where cardiovascula
 
 Feel free to reach out to any of our team members with questions, suggestions, or collaboration opportunities. We are always excited to connect with like-minded individuals who share our passion for transforming healthcare through innovative technologies.
 
-## **💡 Our Vision**
+##**💡 Our Vision**
 Our vision is to create a future where individuals have the knowledge and tools to proactively manage their cardiovascular health. We strive to empower users with accurate and personalized risk assessments, enabling them to make informed decisions about their well-being. By leveraging cutting-edge technologies and collaborative efforts, we aim to contribute to a world where cardiovascular diseases are not only better understood but also preventable and treatable.
 
 ##** 📞 Contact Us**
