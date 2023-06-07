@@ -1,24 +1,6 @@
 
 # CardioVita™ - The Cardiovascular Prognosticator
 
-## Authors
-
-The Cardiovascular Disease Prediction AI project is a collaborative effort led by the following team members:
-
-Govind Kumar: Cloud Architect - [@elngovind](https://www.github.com/elngovind)
-
-Ermanno B.J. Attardo: ML Lead
-
-Ahmed Ali: Data Engineer - [@ahmedmagdy31](https://github.com/Ahmedmagdy31)
-
-Shraiya Sundriyal: Cloud Engineer - [@shraiya-dev](https://github.com/Shraiya-dev)
-
-
-
-
-
-
-
 ## Project Overview
 The Cardiovascular Disease Prediction AI project is an open-source initiative aimed at developing an AI-powered chatbot that predicts the probability of an individual having a cardiovascular disease based on user-provided inputs. The project utilizes machine learning techniques and a pre-trained model to provide users with an estimate of their likelihood of developing a cardiovascular disease in the present or future.
 
@@ -138,13 +120,13 @@ Join us on this exciting journey as we work towards a future where cardiovascula
 
 ## **👥** Meet Our Team
 
-**Govind Kumar** - Cloud Architect
+**Govind Kumar** - Cloud Architect [@elngovind](https://www.github.com/elngovind)
 
-**Ermanno B.J. Attardo** - ML Lead
+**Ermanno B.J. Attardo** - ML Lead 
 
-**Ahmed Ali** - Data Engineer
+**Ahmed Ali** - Data Engineer [@ahmedmagdy31](https://github.com/Ahmedmagdy31)
 
-**Shraiya Sundriyal** - Cloud Engineer
+**Shraiya Sundriyal** - Cloud Engineer [@shraiya-dev](https://github.com/Shraiya-dev)
 
 Feel free to reach out to any of our team members with questions, suggestions, or collaboration opportunities. We are always excited to connect with like-minded individuals who share our passion for transforming healthcare through innovative technologies.
 
