@@ -98,7 +98,7 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## License
+## **⚖️License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
