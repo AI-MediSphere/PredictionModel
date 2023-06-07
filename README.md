@@ -23,44 +23,46 @@ Shraiya Sundriyal: Cloud Engineer - [@shraiya-dev](https://github.com/Shraiya-de
 The Cardiovascular Disease Prediction AI project is an open-source initiative aimed at developing an AI-powered chatbot that predicts the probability of an individual having a cardiovascular disease based on user-provided inputs. The project utilizes machine learning techniques and a pre-trained model to provide users with an estimate of their likelihood of developing a cardiovascular disease in the present or future.
 
 The motivation behind this project is to address the significant impact of heart diseases, which rank among the top three causes of death worldwide. Often, patients realize the presence of cardiovascular diseases at a late stage, resulting in limited treatment options. The project aims to empower users to self-assess their risk and make informed decisions about seeking medical checkups and interventions.
+
 ## Technology Stack
 The project utilizes the following technologies:
-
 AWS (Amazon Web Services): Cloud infrastructure and services
 Python: Programming language for machine learning and data processing
+
 ## Project Structure
 
 The project repository follows a well-organized structure to ensure clarity and ease of use. The repository contains the following components:
 
-src/: This directory contains the source code for the AI chatbot and machine learning model.
+**src/**: This directory contains the source code for the AI chatbot and machine learning model.
 
-data/: This directory stores the datasets used for training and evaluation. It also includes any necessary preprocessing scripts or data cleaning tools.
+**data/**: This directory stores the datasets used for training and evaluation. It also includes any necessary preprocessing scripts or data cleaning tools.
 
-models/: This directory holds the pretrained machine learning models used for cardiovascular disease prediction.
+**models/**: This directory holds the pretrained machine learning models used for cardiovascular disease prediction.
 
-docs/: This directory contains project documentation and additional resources.
+**docs/**: This directory contains project documentation and additional resources.
 
-README.md: The main documentation file providing an overview of the project, installation instructions, and usage guidelines.
+**README.md**: The main documentation file providing an overview of the project, installation instructions, and usage guidelines.
 
-CONTRIBUTING.md: Guidelines for contributing to the project.
+**CONTRIBUTING.md**: Guidelines for contributing to the project.
 
-LICENSE: The license file specifying the open-source license under which the project is released.
+**LICENSE**: The license file specifying the open-source license under which the project is released.
 
-CHANGELOG.md: A log of changes made to the project over time.
+**CHANGELOG.md**: A log of changes made to the project over time.
 
-API_DOCUMENTATION.md: Documentation for the API endpoints and usage.
+**API_DOCUMENTATION.md**: Documentation for the API endpoints and usage.
 
 Additional files and directories as required for project documentation.
 
-tests/: This directory contains unit tests and test scripts to ensure the correctness and reliability of the codebase.
+**tests/**: This directory contains unit tests and test scripts to ensure the correctness and reliability of the codebase.
 
-requirements.txt: A file specifying the Python dependencies required to run the project.
+**requirements.txt**: A file specifying the Python dependencies required to run the project.
 
-.gitignore: A file specifying which files and directories should be ignored by version control.
+**.gitignore**: A file specifying which files and directories should be ignored by version control.
 
-LICENSE: The project's open-source license file.
+**LICENSE**: The project's open-source license file.
 
-README.md: This file, providing an overview of the project and its structure.
+**README.md**: This file, providing an overview of the project and its structure.
+
 ## Installation
 
 To run the Cardiovascular Disease Prediction AI project locally, follow these steps:
@@ -120,7 +122,7 @@ Please adhere to this project's `code of conduct`.
 
 
 
-## 🚀 About Us
+## **🚀** About Us
 
 Welcome to our team of dedicated individuals who are passionate about making a positive impact in the healthcare industry. We are a group of enthusiastic and skilled professionals committed to leveraging the power of technology to improve the lives of individuals affected by cardiovascular diseases.
 
@@ -134,23 +136,22 @@ We understand the critical importance of collaboration and knowledge sharing in 
 
 Join us on this exciting journey as we work towards a future where cardiovascular diseases are detected early, interventions are timely, and lives are saved. Together, let's make a difference in the world of healthcare.
 
-👥 Meet Our Team
+## **👥** Meet Our Team
 
-Govind Kumar - Cloud Architect
+**Govind Kumar** - Cloud Architect
 
-Ermanno B.J. Attardo - ML Lead
+**Ermanno B.J. Attardo** - ML Lead
 
-Ahmed Ali - Data Engineer
+**Ahmed Ali** - Data Engineer
 
-Shraiya Sundriyal - Cloud Engineer
+**Shraiya Sundriyal** - Cloud Engineer
 
 Feel free to reach out to any of our team members with questions, suggestions, or collaboration opportunities. We are always excited to connect with like-minded individuals who share our passion for transforming healthcare through innovative technologies.
 
-💡 Our Vision
-
+## **💡 Our Vision**
 Our vision is to create a future where individuals have the knowledge and tools to proactively manage their cardiovascular health. We strive to empower users with accurate and personalized risk assessments, enabling them to make informed decisions about their well-being. By leveraging cutting-edge technologies and collaborative efforts, we aim to contribute to a world where cardiovascular diseases are not only better understood but also preventable and treatable.
 
-📞 Contact Us
+##** 📞 Contact Us**
 
 We would love to hear from you! If you have any questions, feedback, or collaboration inquiries, please don't hesitate to reach out to us:
 
@@ -158,4 +159,5 @@ Email: contact@cardiovita.com
 Website: www.cardiovita.com
 Twitter: @CardioVitaAI
 LinkedIn: CardioVita
+
 Thank you for your support, and let's revolutionize cardiovascular disease prediction together!
