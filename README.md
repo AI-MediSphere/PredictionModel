@@ -122,7 +122,7 @@ Join us on this exciting journey as we work towards a future where cardiovascula
 
 **Govind Kumar** - Cloud Architect [@elngovind](https://www.github.com/elngovind)
 
-**Ermanno B.J. Attardo** - ML Lead 
+**Ermanno B.J. Attardo** - ML Lead [@Attersson](https://www.github.com/Attersson)
 
 **Ahmed Ali** - Data Engineer [@ahmedmagdy31](https://github.com/Ahmedmagdy31)
 
