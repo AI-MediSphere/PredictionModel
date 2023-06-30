@@ -1,23 +1,24 @@
-Overview:
+**Overview:**
+
 The proposed solution is an intelligent health monitoring system that utilizes various AWS services and the OpenAI platform to analyze input data and provide valuable insights to end users. The system incorporates data from multiple sources, including objective and subjective features, to predict the presence or absence of cardiovascular disease. The system follows a series of stages, involving API Gateway, AWS Lambda, AWS Sagemaker, and OpenAI endpoints, to process and deliver the final response to the end user.
 
-Stage 1: Input Processing
+**Stage 1: Input Processing**
 The system begins by receiving input data through the API Gateway. The input data consists of various features related to an individual's health, such as age, height, weight, gender, blood pressure, cholesterol level, glucose level, smoking habits, alcohol intake, physical activity, and the presence or absence of cardiovascular disease. This data is passed to the AWS Lambda function for further processing.
 
-Stage 2: AWS Lambda Function
+**Stage 2: AWS Lambda Function**
 In this stage, the AWS Lambda function receives the input data from the API Gateway. The Lambda function acts as the central processing unit, extracting the relevant information from the input and performing any necessary data transformations or validations. The extracted data is prepared for further analysis and passed on to the next stage.
 
-Stage 3: AWS Sagemaker Endpoint
+**Stage 3: AWS Sagemaker Endpoint**
 After preprocessing the data, the Lambda function invokes the AWS Sagemaker endpoint. Sagemaker is a fully managed machine learning service provided by AWS. The endpoint is responsible for deploying and running the machine learning model that predicts the presence or absence of cardiovascular disease. The processed data is sent to the Sagemaker endpoint for inference.
 
-Stage 4: Sagemaker Endpoint Response
+**Stage 4: Sagemaker Endpoint Response**
 The Sagemaker endpoint performs inference using the deployed machine learning model and returns the prediction results back to the Lambda function. The results include a raw output that indicates the likelihood of the presence or absence of cardiovascular disease based on the input data. The Lambda function receives this output for further processing.
 
-Stage 5: OpenAI Endpoint
+**Stage 5: OpenAI Endpoint**
 In this stage, the Lambda function utilizes the OpenAI platform to enhance the raw output received from the Sagemaker endpoint. OpenAI is an AI-powered platform capable of generating human-like text. The Lambda function sends the raw output to the OpenAI endpoint for further analysis and processing.
 
-Stage 6: OpenAI Response and API Gateway
+**Stage 6: OpenAI Response and API Gateway**
 The OpenAI endpoint processes the raw output and generates a processed and curated response. This response contains valuable insights and explanations regarding the prediction of cardiovascular disease. The Lambda function receives the processed output from OpenAI and prepares it to be served back to the end user. Finally, the processed output is returned via the API Gateway as a response to the end user, providing them with valuable health-related information based on the input data.
 
-Conclusion:
+**Conclusion:**
 The intelligent health monitoring system described above utilizes AWS services, such as API Gateway, Lambda, and Sagemaker, along with the OpenAI platform, to process input data and deliver valuable insights to end users. By leveraging machine learning and natural language processing capabilities, the system can predict the presence or absence of cardiovascular disease and provide detailed explanations for the prediction. This solution enables users to monitor their health more effectively and make informed decisions regarding their well-being.
