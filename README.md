@@ -1,5 +1,5 @@
 
-# CardioVita™ - The Cardiovascular Prognosticator
+# AI-MediSphere™ - The Cardiovascular Prognosticator
 
 ## Project Overview
 The Cardiovascular Disease Prediction AI project is an open-source initiative aimed at developing an AI-powered chatbot that predicts the probability of an individual having a cardiovascular disease based on user-provided inputs. The project utilizes machine learning techniques and a pre-trained model to provide users with an estimate of their likelihood of developing a cardiovascular disease in the present or future.
@@ -110,7 +110,7 @@ Welcome to our team of dedicated individuals who are passionate about making a p
 
 At our core, we believe that early detection and prevention are key to reducing the prevalence and severity of cardiovascular diseases, which continue to be a leading cause of mortality worldwide. Our mission is to empower individuals to take charge of their cardiovascular health through accessible and accurate risk assessment.
 
-Combining our expertise in artificial intelligence, machine learning, and cloud technologies, we have embarked on the development of CardioVita™ - The Cardiovascular Prognosticator. This state-of-the-art AI-driven solution aims to provide users with a reliable and user-friendly tool to assess their risk of developing cardiovascular diseases both now and in the future.
+Combining our expertise in artificial intelligence, machine learning, and cloud technologies, we have embarked on the development of AI-Medisphere™ - The Cardiovascular Prognosticator. This state-of-the-art AI-driven solution aims to provide users with a reliable and user-friendly tool to assess their risk of developing cardiovascular diseases both now and in the future.
 
 Our team consists of diverse professionals with specialized skills. From cloud architects and machine learning experts to data engineers and cloud implementation engineers, we bring together a range of expertise to create a robust and scalable solution. Together, we strive to deliver an exceptional product that not only meets the highest standards of accuracy but also provides a seamless user experience.
 
