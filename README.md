@@ -126,7 +126,6 @@ Join us on this exciting journey as we work towards a future where cardiovascula
 
 **Ahmed Ali** - Data Engineer [@ahmedmagdy31](https://github.com/Ahmedmagdy31)
 
-**Shraiya Sundriyal** - Cloud Engineer [@shraiya-dev](https://github.com/Shraiya-dev)
 
 Feel free to reach out to any of our team members with questions, suggestions, or collaboration opportunities. We are always excited to connect with like-minded individuals who share our passion for transforming healthcare through innovative technologies.
 
