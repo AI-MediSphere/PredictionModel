@@ -73,6 +73,7 @@ To run the Cardiovascular Disease Prediction AI project locally, follow these st
 ## Demo
 
 The Cardiovascular Disease Prediction AI project offers two main ways to interact with the prediction model:
+![AI_Meid](https://github.com/AI-MediSphere/PredictionModel/assets/27725235/340e2f57-9706-43b8-9032-8b4ff9c3b7a9)
 
 
 Examples of prompts and chatbot responses
