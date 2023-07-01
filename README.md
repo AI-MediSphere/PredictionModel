@@ -77,7 +77,9 @@ The Cardiovascular Disease Prediction AI project offers two main ways to interac
 
 
 Examples of prompts and chatbot responses
+
 **No risk**
+
 Hello, Mary Sue! Based on the information you provided, I'm glad to inform you that you are currently at a lower risk of heart disease. Let's explore each factor that contributes to your positive health profile:
 
 Age: At 25 years old, you are at an age where heart diseases are less common. However, it's still important to maintain a healthy lifestyle to prevent future risks.
@@ -101,6 +103,7 @@ Physical Activity: Engaging in regular physical activity is excellent for heart 
 Given your positive health profile, you are not currently at high risk for heart disease. However, it's still essential to maintain a healthy lifestyle, including regular exercise, a balanced diet, and routine health check-ups. By prioritizing these aspects, you can continue to safeguard your heart health and overall well-being. If you have any concerns or experience changes in your health, it's always wise to consult a doctor for personalized guidance. Keep up the good work in taking care of yourself!
 
 **Risk - uneducated (young) user**
+
 Hello John Doe! I'm here to discuss an important matter related to your health. Based on the information you provided, there are several factors that indicate you may be at a high risk of heart disease. Let's take a closer look at each risk factor:
 
 Age: Being 18 years old doesn't guarantee protection against heart diseases. While it's less common at a young age, certain risk factors can still contribute to heart problems.
@@ -125,6 +128,7 @@ Considering all these risk factors, it is crucial for you to consult a doctor as
 
 
 **Risk - experienced and adult user**
+
 Dear Mr. John Doe, based on the provided information, I must emphasize that your current health profile places you at a significantly high risk of heart disease. Allow me to elaborate on each risk factor and its potential detrimental effects:
 
 Age: At 58 years old, the risk of developing heart disease tends to increase due to the natural aging process and cumulative exposure to various risk factors over time.
