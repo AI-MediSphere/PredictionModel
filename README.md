@@ -15,11 +15,11 @@ Python: Programming language for machine learning and data processing
 
 The project repository follows a well-organized structure to ensure clarity and ease of use. The repository contains the following components:
 
-**src/**: This directory contains the source code for the AI chatbot and machine learning model.
+**Architecture-Diagram/**: This directory contains the source code for the AI chatbot and machine learning model.
 
-**data/**: This directory stores the datasets used for training and evaluation. It also includes any necessary preprocessing scripts or data cleaning tools.
+**Data/**: This directory stores the datasets used for training and evaluation. It also includes any necessary preprocessing scripts or data cleaning tools.
 
-**models/**: This directory holds the pretrained machine learning models used for cardiovascular disease prediction.
+**Solution-Component/**: This directory holds the pretrained machine learning models used for cardiovascular disease prediction.
 
 **docs/**: This directory contains project documentation and additional resources.
 
@@ -59,7 +59,7 @@ To run the Cardiovascular Disease Prediction AI project locally, follow these st
 2. Install the required dependencies using pip:
 
 ```bash
-  git clone https://github.com/your-username/project-repo.git
+  git clone https://github.com/AI-MediSphere/PredictionModel.git
   cd my-project
 ```
 3. Run the AI chatbot using the provided command-line interface (CLI) or by integrating the API into your own application.
