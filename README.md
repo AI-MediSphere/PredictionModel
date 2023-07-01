@@ -54,15 +54,15 @@ To run the Cardiovascular Disease Prediction AI project locally, follow these st
 1. Clone the project repository:
 
 ```bash
-  git clone https://github.com/your-username/project-repo.git
-  cd my-project
+  git clone https://github.com/AI-MediSphere/PredictionModel.git
+  cd AI-MediSphere
 ```
 
 2. Install the required dependencies using pip:
 
 ```bash
   git clone https://github.com/AI-MediSphere/PredictionModel.git
-  cd my-project
+  cd AI-MediSphere
 ```
 3. Run the AI chatbot using the provided command-line interface (CLI) or by integrating the API into your own application.
 
