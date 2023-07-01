@@ -6,6 +6,8 @@ The Cardiovascular Disease Prediction AI project is an open-source initiative ai
 
 The motivation behind this project is to address the significant impact of heart diseases, which rank among the top three causes of death worldwide. Often, patients realize the presence of cardiovascular diseases at a late stage, resulting in limited treatment options. The project aims to empower users to self-assess their risk and make informed decisions about seeking medical checkups and interventions.
 
+![AIMedispherev06](https://github.com/AI-MediSphere/PredictionModel/assets/27725235/275559c7-75e9-43d7-839d-6d87cff0fa2a)
+
 ## Technology Stack
 The project utilizes the following technologies:
 AWS (Amazon Web Services): Cloud infrastructure and services
